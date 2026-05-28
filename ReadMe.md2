@@ -1,0 +1,37 @@
+# ABU Pick4Me 🍽️
+
+**Helping Ahmadu Bello University students cure decision paralysis, one meal at a time.**
+
+## What It Does
+ABU Pick4Me is a WhatsApp-powered food recommendation bot for ABU students. 
+Students tell Chef Francois their budget, mood, and location — he finds the best 
+verified food vendors instantly and delivers recommendations straight to WhatsApp.
+
+## How It Works
+1. Student messages Chef Francois on WhatsApp
+2. Bot collects: Name → Campus → Budget → Craving
+3. Bot scans verified vendors near campus
+4. Student gets personalized recommendations + earns ABU Coins
+5. Coins redeemable for free drinks, discounts, and meals
+
+## Tech Stack
+- **Frontend:** HTML/CSS/JS landing page (GitHub Pages)
+- **Backend:** Make.com automation platform
+- **Messaging:** UltraMsg WhatsApp Business API
+- **Data:** Google Sheets + Make.com Data Store
+
+## Live Demo
+🔗 https://haddir.github.io/ABU-PICK-4-ME/
+
+## Features
+- ✅ Personalized food picks based on budget & location
+- ✅ ABU Coin loyalty system (earn while you eat)
+- ✅ Referral rewards (+20 coins per friend)
+- ✅ No app download needed — works in WhatsApp
+- ✅ Built for ABU Samaru, Congo, Site II & off-campus
+
+## Built For
+Ahmadu Bello University Students, Zaria, Nigeria
+
+## License
+MIT License — see [LICENSE](LICENSE)
